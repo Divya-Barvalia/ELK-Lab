@@ -17,7 +17,7 @@
 
 <hr/>
 
-<h2>🧪 Lab Steps</h2>
+<h2>🧪 Lab Process</h2>
 
 <ol>
   <li>
