@@ -22,51 +22,40 @@
 <ol>
   <li>
     Setup an Elastic Search ELK security deployment.<br/>
-    <img src="screenshots/step1.png" alt="Step 1 Screenshot" width="600"/>
   </li>
   <li>
-    Created an agent policy to add agents.<br/>
-    <img src="screenshots/step2.png" alt="Step 2 Screenshot" width="600"/>
+    Created an agent policy to add Linux agents, and added integrations into the policy for monitoring.<br/>
+    <img src="Screenshots/Linux-AgentPolicy.png" width="600"/>
   </li>
   <li>
     Successfully added a Kali Linux agent.<br/>
-    <img src="screenshots/step3.png" alt="Step 3 Screenshot" width="600"/>
-  </li>
-  <li>
-    Added integrations.<br/>
-    <img src="screenshots/step4.png" alt="Step 4 Screenshot" width="600"/>
+    <img src="Screenshots/Linux-Agent-Command.png" width="600"/><img src="Screenshots/Kali-Agent.png" width="600"/><img src="Screenshots/KaliOnFleet.png" width="600"/>
   </li>
   <li>
     Collected and searched logs.<br/>
-    <img src="screenshots/step5.png" alt="Step 5 Screenshot" width="600"/>
+    <img src="Screenshots/LinuxAgentLogs.png" width="600"/>
   </li>
   <li>
     Removed agent, created new policy, and added a Windows 11 agent.<br/>
-    <img src="screenshots/step6.png" alt="Step 6 Screenshot" width="600"/>
+    <img src="Screenshots/AgentPolicy2.png" width="600"/><img src="Screenshots/Win-Agent-NewPolicy.png" width="600"/>
   </li>
   <li>
     Downloaded and ran Sysmon on the agent.<br/>
-    <img src="screenshots/step7.png" alt="Step 7 Screenshot" width="600"/>
+    <img src="Screenshots/SysmonInstall-WinAgent.png" width="600"/>
   </li>
   <li>
-    Added Windows integration on the policy I made for my agent on Kibana. The integration consists of Sysmon operationals, which will collect logs from Sysmon.<br/>
-    <img src="screenshots/step8.png" alt="Step 8 Screenshot" width="600"/>
+    Added Windows integration on the policy I made for my Windows agent on Kibana. The integration consists of Sysmon operationals, which will collect logs from Sysmon.<br/>
   </li>
   <li>
     Searched logs with specific fields, and it successfully logged the commands I was running on the Windows 11 VM.<br/>
-    <img src="screenshots/step9.png" alt="Step 9 Screenshot" width="600"/>
-  </li>
-  <li>
-    Also logged me going on and using Microsoft Edge.<br/>
-    <img src="screenshots/step10.png" alt="Step 10 Screenshot" width="600"/>
+    <img src="Screenshots/CommandsRan-WinAgent.png" width="600"/><img src="Screenshots/Win-Logs.png" width="600"/>
   </li>
   <li>
     Added a data filter and also used Kibana Query Language (KQL) to filter through the log searches.<br/>
-    <img src="screenshots/step11.png" alt="Step 11 Screenshot" width="600"/>
+    <img src="Screenshots/Data-Filter.png" width="600"/><img src="Screenshots/Results.png" width="600"/>
   </li>
   <li>
     Saved the Kibana Discover session to finish it off.<br/>
-    <img src="screenshots/step12.png" alt="Step 12 Screenshot" width="600"/>
   </li>
 </ol>
 
