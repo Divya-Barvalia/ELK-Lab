@@ -29,15 +29,15 @@
   </li>
   <li>
     Successfully added a Kali Linux agent.<br/>
-    <img src="Screenshots/Linux-Agent-Command.png" width="600"/><img src="Screenshots/Kali-Agent.png" width="600"/><img src="Screenshots/KaliOnFleet.png" width="600"/>
+    <img src="Screenshots/Linux-Agent-Command.png" width="400"/><img src="Screenshots/Kali-Agent.png" width="800"/><img src="Screenshots/KaliOnFleet.png" width="800"/>
   </li>
   <li>
     Collected and searched logs.<br/>
-    <img src="Screenshots/LinuxAgentLogs.png" width="600"/>
+    <img src="Screenshots/LinuxAgentLogs.png" width="800"/>
   </li>
   <li>
     Removed agent, created new policy, and added a Windows 11 agent.<br/>
-    <img src="Screenshots/AgentPolicy2.png" width="600"/><img src="Screenshots/Win-Agent-NewPolicy.png" width="600"/>
+    <img src="Screenshots/AgentPolicy2.png" width="800"/><img src="Screenshots/Win-Agent-NewPolicy.png" width="800"/>
   </li>
   <li>
     Downloaded and ran Sysmon on the agent.<br/>
@@ -48,11 +48,11 @@
   </li>
   <li>
     Searched logs with specific fields, and it successfully logged the commands I was running on the Windows 11 VM.<br/>
-    <img src="Screenshots/CommandsRan-WinAgent.png" width="600"/><img src="Screenshots/Win-Logs.png" width="600"/>
+    <img src="Screenshots/CommandsRan-WinAgent.png" width="600"/><img src="Screenshots/Win-Logs.png" width="1000"/>
   </li>
   <li>
     Added a data filter and also used Kibana Query Language (KQL) to filter through the log searches.<br/>
-    <img src="Screenshots/Data-Filter.png" width="600"/><img src="Screenshots/Results.png" width="600"/>
+    <img src="Screenshots/Data-Filter.png" width="800"/><img src="Screenshots/Results.png" width="800"/>
   </li>
   <li>
     Saved the Kibana Discover session to finish it off.<br/>
