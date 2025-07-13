@@ -28,7 +28,7 @@
     <img src="Screenshots/Linux-AgentPolicy.png" width="600"/>
   </li>
   <li>
-    Successfully added a Kali Linux agent.<br/>
+    Successfully added a Kali Linux agent to the Kibana fleet.<br/>
     <img src="Screenshots/Linux-Agent-Command.png" width="400"/><img src="Screenshots/Kali-Agent.png" width="800"/><img src="Screenshots/KaliOnFleet.png" width="800"/>
   </li>
   <li>
@@ -36,7 +36,7 @@
     <img src="Screenshots/LinuxAgentLogs.png" width="800"/>
   </li>
   <li>
-    Removed agent, created new policy, and added a Windows 11 agent.<br/>
+    Removed agent, created new policy, and added a Windows 11 agent to the Kibana fleet.<br/>
     <img src="Screenshots/AgentPolicy2.png" width="800"/><img src="Screenshots/Win-Agent-NewPolicy.png" width="800"/>
   </li>
   <li>
